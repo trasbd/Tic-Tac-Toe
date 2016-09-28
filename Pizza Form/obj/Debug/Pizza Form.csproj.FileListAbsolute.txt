@@ -1,0 +1,9 @@
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\bin\Debug\Pizza Form.exe.config
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\bin\Debug\Pizza Form.exe
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\bin\Debug\Pizza Form.pdb
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza Form.csprojResolveAssemblyReference.cache
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza_Form.Form1.resources
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza_Form.Properties.Resources.resources
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza Form.csproj.GenerateResource.Cache
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza Form.exe
+C:\Users\thoma_000\OneDrive\Fall 2016\Csharp\Pizza Form\Pizza Form\obj\Debug\Pizza Form.pdb
